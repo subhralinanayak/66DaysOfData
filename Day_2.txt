@@ -1,0 +1,8 @@
+Day 2 of #66daysofdata
+
+Concept: Gradient Descent
+
+Summary:
+Gradient descent is used to find the best fit line for a regression by minimising the value of the loss function. Sum of squared residuals is a very common example of a loss function. The derivatives of the loss function is calculated with respect to slope and intercept. Then random values of slope and intercept are plugged to find value of the derivatives. After this, step size for slope and intercept is calculated by plugging respective slope values. Consequently, new values of intercept and slope are calculated using the respective step sizes. Finally, a new line is drawn using these new parameters. The process is the repeated till the best fit line is found. The step keeps decreasing as we approach the minima. Gradient descent stops when either the step size is less than 0.001 or the number of steps exceeds 1000.
+
+Yes, I revised this from Joshua Starmer PhD’s StatQuest. BAM!
