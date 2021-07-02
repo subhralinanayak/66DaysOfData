@@ -1,0 +1,6 @@
+Day 1 of #66daysofdata
+
+Concept: Least squares
+
+Summary:
+In case of regression problems, a line has to be plotted depicting the relationship between the independent and the dependent variables. To find the line that best fits our data, we need to minimise the sum of squared residuals. For every line that can fit the data, sum of residuals is calculated for all the data points. A relationship, in form of a function, is established between slope, intercept and their respective sum of squared residuals. Now, the minimum sum can be found by finding the derivative of this function, wherever it is equal to 0. By using the corresponding slope and intercept, the best fit line can be drawn.
