@@ -1,0 +1,8 @@
+Day 3 of #66daysofdata
+
+Concept: R2 score
+
+Summary:
+R2 score is an evaluation metric for regression models. It depicts that how much of the variation in the dependent variables can be explained by the independent variables. If R2 score is 0.9, it means the relationship between the two variables explains 90% of the variation of the data. A higher R2 score implies a better model.
+
+#datascience #machinelearning
